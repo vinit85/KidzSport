@@ -33,6 +33,7 @@ import EventDetail from "./components/EventDetail";
 import "@fortawesome/fontawesome-free/css/all.min.css";
 import "./assets/css/style.css";
 
+
 function App() {
   const [isLocationOpen, setIsLocationOpen] = useState(false);
   const [selectedState, setSelectedState] = useState("");
