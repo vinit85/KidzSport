@@ -1,0 +1,945 @@
+/* <top.css> */
+
+img.watch-img {
+    width: 20px;
+}
+
+.header-one {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+ul.navbar-nav.ms-auto {
+    margin: auto;
+}
+
+
+::after {
+    color: #FF9638;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black !important;
+}
+
+button.book {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 60px;
+    font-size: 16px;
+    border-radius: 300px;
+    margin-top: 20px;
+}
+
+img.facebook2 {
+    width: 19px;
+    margin-right: 10px;
+}
+
+img.phone-logo {
+    width: 20px;
+}
+
+a.btn-cantact {
+    border: 1px solid;
+    background-image: linear-gradient(#921C8E, #E9018B);
+    border-color: #921C8E;
+    padding: 10px 50px;
+    border-radius: 300px;
+    color: white;
+    text-decoration: none !important;
+}
+
+h5.quest {
+    color: #ff9f49;
+    margin-top: 90px;
+}
+
+.d-flex.justify-content-gap-6 {
+    gap: 42px;
+    margin-top: 30px;
+}
+
+img.child {
+    width: 509px;
+}
+
+h1.join {
+    font-size: 83px;
+    color: white;
+    margin-top: 20px;
+}
+
+p.banner-pg {
+    color: white;
+}
+
+section.banner {
+    background-image: url(assets/images/background-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #ffffff !important;
+}
+
+img.arrow {
+    border: 2px solid;
+    width: 30px;
+    border-radius: 24px;
+    background-color: white;
+}
+
+
+
+p.about {
+    color: #FF9638;
+    font-size: 20px;
+    margin-top: 120px;
+}
+
+h5.Engaging {
+    font-size: 52px;
+    color: #002D45;
+}
+
+p.interactive {
+    font-size: 17px;
+    color: #002D45;
+}
+
+img.check-icon {
+    background-color: #FF9638;
+    width: 16px;
+    height: 16px;
+    border-radius: 20px;
+    margin-top: 7px;
+}
+
+p.Empowering {
+    margin-left: 10px;
+    font-size: 18px;
+    color: #002D45;
+    margin-bottom: 0px;
+}
+
+button.Know {
+    width: 253px;
+    border: 0px;
+    height: 64px;
+    border-radius: 300px;
+    background-color: #921C8E;
+    color: white;
+    margin-top: 40px;
+}
+
+section.About.KIDZSPORT {
+    /* margin-top: 90px; */
+    background-color: #FFFAF6F2;
+}
+
+img.child-play {
+    margin-top: 90px;
+    margin-bottom: 90px;
+    width: 100%;
+}
+
+h5.why-choose {
+    font-size: 42px;
+    color: #002D45;
+    margin-top: 80px;
+}
+
+p.Lorem {
+    color: #002d45;
+}
+
+button.know.more1 {
+    width: 253px;
+    height: 64px;
+    border-radius: 300px;
+    border: 0px;
+    background-color: #74BB3B;
+    color: white;
+}
+
+img.young-boy {
+    width: 100%;
+    margin-top: 90px;
+}
+
+p.ratios {
+    font-size: 46px;
+    font-weight: 800;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    color: #002D45;
+}
+
+img.speaker-1 {
+    padding: 10px;
+}
+
+.choose-input {
+    margin-top: 20px;
+    border: 1px solid;
+    background-color: #FFEEDE;
+    border-color: #FFEEDE;
+    border-radius: 40px;
+    width: 76px;
+    height: 76px;
+    margin-left: 20px;
+}
+
+p.Optimizing {
+    color: #002D45;
+    margin-left: 10px;
+}
+
+.bbb {
+    border: 1px solid;
+    background-color: #FFFbF6;
+    border-color: #FF9F49;
+    border-radius: 20px;
+    box-shadow: 6px 6px #ff9f49;
+    width: 100%;
+    height: 187px;
+}
+
+img.speaker2 {
+    padding: 10px;
+}
+
+.choose-input1 {
+    margin-top: 20px;
+    border: 1px solid;
+    background-color: #259E4426;
+    border-color: #259E4426;
+    border-radius: 40px;
+    width: 76px;
+    height: 76px;
+    margin-left: 20px;
+}
+
+
+p.\31 3 {
+    font-size: 46px;
+    margin-left: 10px;
+    font-weight: 800;
+    color: #002D45;
+    margin-bottom: 0px;
+}
+
+.border-1 {
+    border: 1px solid;
+    border-color: #259E44;
+    border-radius: 20px;
+    margin-top: 20px;
+    width: 100%;
+    height: 187px;
+}
+
+.choose-input2 {
+    margin-top: 20px;
+    border: 1px solid;
+    background-color: #921C8E21;
+    border-color: #921C8E21;
+    border-radius: 40px;
+    width: 76px;
+    height: 76px;
+    margin-left: 20px;
+}
+
+img.award {
+    padding: 19px;
+}
+
+.border-3 {
+    border: 1px solid;
+    border-color: #921C8E;
+    border-radius: 20px;
+    width: 100%;
+    height: 187px;
+}
+
+.choose-input3 {
+    margin-top: 20px;
+    border: 1px solid;
+    background-color: #0091D11A;
+    border-color: #0091D11A;
+    width: 76px;
+    height: 76px;
+    border-radius: 40px;
+    margin-left: 20px;
+}
+
+img.speaker3 {
+    padding: 10px;
+}
+
+.border-4 {
+    border: 1px solid;
+    border-color: #0091D1;
+    border-radius: 20px;
+    margin-top: 16px;
+    width: 100%;
+    height: 187px;
+}
+
+.container-ccc {
+    margin-top: 60px;
+}
+
+p.text-center {
+    font-size: 20px;
+    color: #FF9638;
+    margin-top: -157px;
+}
+
+h5.text-center {
+    font-size: 42px;
+    color: #002D45;
+}
+
+p.Activities {
+    font-size: 18px;
+    color: #002D45;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+
+p.old {
+    border: 1px solid;
+    background-color: #FF881E26;
+    border-color: #FF881E26;
+    width: 136px;
+    height: 33px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.left {
+    display: flex;
+    margin-inline: 15px;
+    gap: 15px;
+}
+
+.container.lg-bg {
+    background-color: #FF8010;
+    padding: 50px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+.img1 {
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    width: 100%;
+}
+
+p.code {
+    color: #FF8010;
+    font-size: 52px;
+    font-weight: 800;
+    margin-bottom: -15px;
+    margin-top: 50px;
+}
+
+h1.sports-kidz {
+    font-size: 50px;
+    color: #002D45;
+    font-weight: 600;
+}
+
+p.sports-pg {
+    color: #002D45;
+}
+
+p.phone1 {
+    font-size: 20px;
+    color: #259E44;
+    font-weight: 800;
+    margin-top: 20px;
+}
+
+p.phone2 {
+    color: #F6911E;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+img.right-arrow {
+    width: 18px;
+    height: 18px;
+    margin-top: 28px;
+    margin-left: -10px;
+}
+
+section.event {
+    margin-top: 50px;
+}
+
+p.Testimonial {
+    font-size: 42px;
+    color: #ffffff;
+    font-weight: 600;
+    margin-top: 50px;
+}
+
+.container.bg-img {
+    background-image: linear-gradient(#921C8E, #E9018B);
+    border-radius: 20px;
+    width: 1320px;
+    height: 572px;
+    margin-top: 80px;
+}
+
+p.letter {
+    font-size: 24px;
+    color: #ffffff;
+    margin-top: 30px;
+}
+
+p.Jessica {
+    font-size: 18px;
+    color: #ffffff;
+}
+
+p.Gareema {
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.swiper {
+    width: 100%;
+    padding: 20px 0;
+}
+
+.swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+    color: #000;
+    /* Change arrow colors */
+}
+
+.swiper-pagination-bullet {
+    background-color: #000;
+    /* Change bullet colors */
+}
+
+.swiper-button-prev {
+    color: #ff8010 !important;
+    width: 24px;
+    height: 24px;
+}
+
+.swiper-button-next {
+    color: #ff8010 !important;
+    width: 24px;
+    height: 24px;
+}
+
+h2.text-center {
+    color: #002D45;
+    font-size: 42px;
+    margin-top: 20px;
+}
+
+img.Cricbuzz {
+    width: 134px;
+    height: 46px;
+}
+
+.first-logo {
+    border: 1px solid;
+    background-color: #FFFBF7;
+    border-color: #FF9638;
+    border-radius: 20px;
+    height: 92px;
+    padding: 23px;
+    margin-top: 40px;
+    width: 100%;
+}
+
+.container.bg-padding {
+    padding: 50px;
+}
+
+p.latest {
+    color: #002D45;
+    font-size: 42px;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+
+p.lorem-paragraph {
+    color: #002D45;
+}
+
+.dot-color {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.dot-color img {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+}
+
+.dot-color p {
+    margin: 0;
+    display: inline-block;
+}
+
+p.img-paragraph {
+    font-size: 18px;
+}
+
+button.btn-read {
+    border: 1px solid;
+    background-color: #259E44;
+    border-color: white;
+    padding: 5px 30px;
+    border-radius: 7px;
+    color: white;
+}
+
+.latest-img3 {
+    background-color: #259E44;
+    padding: 20px;
+    border-radius: 20px;
+    width: 80%;
+    height: 408px;
+    box-shadow: 10px 10px #cccccc;
+}
+
+p.admin {
+    color: white;
+}
+
+p.date {
+    color: white;
+}
+
+p.img-paragraph {
+    font-size: 18px;
+    color: white;
+    margin-top: 20px;
+}
+
+.latest-img2 {
+    background-color: #259E44;
+    padding: 20px;
+    border-radius: 20px;
+    width: 80%;
+}
+
+img.group-play {
+    width: 100%;
+}
+
+img.ludo {
+    width: 100%;
+}
+
+img.child-group {
+    width: 100%;
+}
+
+img.girl-play {
+    width: 100%;
+}
+
+img.football {
+    width: 100%;
+}
+
+img.child-sports {
+    width: 100%;
+}
+
+section.latest-blog {
+    background-color: #FFFAF6F2;
+}
+
+.latest-gap {
+    display: flex;
+    gap: 25px;
+    padding-inline: 70px;
+}
+
+p.sign {
+    font-size: 42px;
+    color: #FFFFFF;
+    margin-left: 20px;
+}
+
+input.input-text1 {
+    padding: 20px 40px;
+    margin-top: 40px;
+    margin-left: 20px;
+    border-radius: 100px;
+    border: 1px solid;
+    border-color: white;
+    outline: none;
+}
+
+img.group15 {
+    width: 100%;
+    margin-top: 60px;
+}
+
+img.Kidzsport.World {
+    width: 220px;
+}
+
+section.footer.bg-color {
+    background-image: linear-gradient(#E9018B, #921C8E);
+    margin-top: 20px;
+}
+
+img.facebook-icon {
+    width: 20px;
+}
+
+img.footer-img {
+    width: 76px;
+}
+
+img.footer-img1 {
+    width: 76px;
+    margin-top: 10px;
+}
+
+img.Kidzsport {
+    width: 220px;
+}
+
+img.plus-person {
+    width: 32px;
+    margin-inline-end: 30px;
+}
+
+.input-container {
+    position: relative;
+    width: 100%;
+    max-width: 550px;
+}
+
+.input-text1 {
+    width: 100%;
+    padding-right: 100px; /* Adjust to fit the button */
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+}
+
+.subscribe-button {
+    position: absolute;
+    right: 0;
+    top: 49px;
+    bottom: 9px;
+    border: none;
+    color: white;
+    padding: 0px 59px;
+    cursor: pointer;
+    border-radius: 0 5px 5px 0;
+    font-size: 14px;
+    background-image: linear-gradient(#74BB3B, #259E44);
+    border-radius: 300px;
+}
+
+a:hover {
+    color: #ffffff !important;
+}
+
+.row.box-green {
+    background: #68b73c;
+    margin: 50px;
+    border-radius: 20px;
+}
+
+img.logo-kidz {
+    width: 220px;
+}
+
+p.lorem-ipsm {
+    color: #ffffff;
+}
+
+img.icons {
+    width: 20px;
+    margin: 8px;
+}
+
+.icon-facebook {
+    border: 1px solid;
+    width: 42px;
+    height: 42px;
+    border-color: #ffffff;
+    border-radius: 40px;
+}
+
+img.icons-1 {
+    width: 20px;
+    margin: 9px;
+}
+
+img.icons-2 {
+    width: 22px;
+    margin: 8px;
+}
+
+h5.footer-headings2 {
+    font-size: 22px;
+    color: #ffffff;
+}
+
+ul.demo {
+    list-style-type: none;
+    padding: 0px;
+    color: #ffffff;
+}
+
+img.black-img {
+    width: 76px;
+}
+
+img.black-img1 {
+    width: 76px;
+}
+
+img.black-img2 {
+    width: 76px;
+    margin-top: 5px;
+}
+
+p.Copyright {
+    color: #ffffff;
+    font-size: 18px;
+    background-color: #921C8E;
+    margin-top: 50px;
+    margin-bottom: 5px;
+}
+
+p.reg {
+    color: #FF8010;
+    font-size: 24px;
+    margin-top: 66px;
+}
+
+.navbar-nav .nav-item {
+    margin-right: 100px; /* Adjust the value as needed */
+}
+
+h1.reg-pg {
+    color: #002D45;
+}
+
+p.lorem-pg {
+    color: #002D45;
+}
+
+.phone-ring {
+    border: 1px solid;
+    width: 76px;
+    height: 76px;
+    background-color: #FFEEDE;
+    border-color: #FFEEDE;
+    border-radius: 40px;
+}
+
+img.call-now {
+    padding: 16px;
+}
+
+p.contact-info-reg {
+    margin-bottom: 0px;
+    color: #002D45;
+}
+
+p.call-us {
+    margin-bottom: 0px;
+    color: #FF9638;
+    font-size: 12px;
+}
+
+.mail-now {
+    border: 1px solid;
+    width: 76px;
+    height: 76px;
+    background-color: #921C8E21;
+    border-color: #921C8E21;
+    border-radius: 40px;
+}
+
+img.message {
+    padding: 16px;
+}
+
+p.message1 {
+    margin-bottom: 0px;
+    color: #921C8E;
+    font-size: 12px;
+}
+
+.location-mark {
+    width: 76px;
+    height: 76px;
+    border: 1px solid;
+    background-color: #259E4426;
+    border-color: #259E4426;
+    border-radius: 40px;
+}
+
+img.location {
+    padding: 16px;
+}
+
+p.location {
+    font-size: 12px;
+    color: #259E44;
+    margin-bottom: 0px;
+}
+
+.Register-display-flex {
+    display: flex;
+    margin-inline-end: 50px;
+}
+
+.shadow-input {
+    margin-top: -60px;
+}
+
+.d-flex.gap-3.align-items-center.content-bottom {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+p.Registration1 {
+    font-size: 42px;
+    color: #002D45;
+    font-weight: 600;
+}
+
+p.full-name {
+    color: #002D45;
+    margin-bottom: 5px;
+}
+
+input.input-1 {
+    border: 1px solid;
+    border-color: #FF8010;
+    outline: none;
+    border-radius: 12px;
+    padding: 18px 40px;
+    width: 100%;
+}
+
+p.email-point {
+    color: #002D45;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+input.input-guard {
+    border: 1px solid;
+    border-color: #FF8010;
+    border-radius: 12px;
+    outline: none;
+    padding: 18px 40px;
+    width: 100%;
+}
+
+p.guard-name {
+    color: #002D45;
+    margin-bottom: 5px;
+}
+
+p.Number {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: #002D45;
+}
+
+select#option {
+    border: 1px solid;
+    border-color: #FF8010;
+    outline: none;
+    border-radius: 12px;
+    /* width: 266px; */
+    height: 62px;
+    width: 100%;
+    /* height: 100%; */
+}
+
+p.Address {
+    color: #002D45;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+p.message-contact {
+    color: #002D45;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+input.input-Additional {
+    border: 1px solid;
+    border-color: #FF8010;
+    outline: #FF8010;
+    border-radius: 12px;
+    padding: 34px 185px;
+}
+
+button.Additional-button {
+    width: 253px;
+    height: 64px;
+    background-image: linear-gradient(#74BB3B, #259E44);
+    border-radius: 300px;
+    border: 0px solid;
+    margin-top: 20px;
+    color: white;
+    margin-left: 10px;
+}
+
+section.Registration.Now\! {
+    background-color: #FFFAF6F2;
+    height: 800px;
+}
+
+.Registration-background-color {
+    background-color: white;
+    margin-top: 66px;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 10px 10px #ff96383b;
+}
+
+
+/* <top.css end> */
+
+
+/* about css */
+
+
+
+
+
+
+/* about css end */
